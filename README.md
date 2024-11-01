@@ -4,14 +4,13 @@ Here is **s3rm4n**. This is the repository for my personal website.
 
 ## 项目结构
 
+```
 .根目录
 ├── _config.yml  最关键的配置文件，所有的修改都将基于.yml展开
 ├── ***.md       主文件夹下的.md文件，构成了网站上的每一个界面
 ├── CNAME        用于配置个人域名
 ├── LICENSE      协议文件，MIT协议表示本代码仓库可以被免费、无偿地复刻
 
-
-.根目录
 ├── _includes 构成本网站的html代码，不建议修改
 ├── _layouts  构成本网站的html代码，不建议修改
 ├── assets    美化本网站的css,less,js代码，不建议修改
@@ -20,6 +19,7 @@ Here is **s3rm4n**. This is the repository for my personal website.
 ├── file      存放简历CV等个人文件，用于设置访问链接
 ├── images    存放.jpg等媒体文件，用于设置访问链接
 ├── mypaper   存放个人学术文章，用于设置访问链接
+```
 
 ## Statement
 

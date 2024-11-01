@@ -2,9 +2,7 @@
 layout: page
 ---
 
-# About Me
-
-.<br>
+# About
 
 Here is **s3rm4n**.<br>
 
@@ -19,16 +17,3 @@ Here is **s3rm4n**.<br>
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning**. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
-
-## News and Updates
-
-
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">
-  thanks 
-</blockquote> 
-  
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-

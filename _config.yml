@@ -1,4 +1,4 @@
-title: OpenMind
+title: s3rm4n
 
 # 最关键的配置文件，所有的修改都将基于.yml展开
 
@@ -9,8 +9,8 @@ url: https://s3rm4n.github.io
 
 # Owner/author information
 owner:
-  name: s3rm4n
-  avatar: xxx.jpg
+  # name: s3rm4n
+  # avatar: xxx.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: web3surf@outlook.com
   # cv: https://.pdf
@@ -39,7 +39,7 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Blogs
+  - title: About
     url: /
   # - title: Publications
   #   url: /publications/
@@ -47,8 +47,8 @@ links:
   #   url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
-  - title: About
-    url: /about
+  - title: Blogs
+    url: /blogs/
   # - title: Teams
   #   url: /teams/
 

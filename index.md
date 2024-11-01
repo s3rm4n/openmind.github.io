@@ -6,8 +6,6 @@ layout: page
 
 .<br>
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-
 Here is **s3rm4n**.<br>
 
 ---
